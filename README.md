@@ -1,5 +1,11 @@
 # React Native 50 Days UI Challenge
 
+Welcome to my React Native 50 Days UI Challenge repository! If you find this project helpful or inspiring, please consider supporting me by giving a star ⭐. Your support helps me keep building and sharing more awesome content.
+
+<a href="https://www.buymeacoffee.com/hewad" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+</a>
+
 This repository contains my implementation of the React Native 50 Days UI Challenge. In this challenge, I will be creating 50 different UI designs using React Native.
 
 ---
@@ -100,3 +106,15 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/89b3b8cf-37
 The Rating Wave component presents a fresh take on the classic star rating system. Each star smoothly animates in sequence, filling up as if liquid is being poured into them. With an additional half-fill feature, the stars can depict half ratings visually using a gradient effect. The wave-like animation and the harmonious transition from one star to another capture user attention, ensuring an interactive and delightful rating experience.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/05113a63-0f6b-48c2-ae30-0d3806317f55
+
+# Day 17 Animated Gauge
+
+The Mood Gauge introduces an interactive and visually captivating way for users to express their feelings. This component transforms the conventional mood selector into a dynamic and colorful gauge, where each segment vividly represents a different mood. Users can effortlessly select how they feel by tapping on a segment, which then animates to highlight their choice. The seamless transition between moods, combined with a harmonious color palette, not only makes the Mood Gauge aesthetically pleasing but also enhances user engagement. It's an innovative tool for apps focusing on mental well-being, user feedback, or any platform seeking to enrich user interaction with a touch of emotion and playfulness.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/92e37581-725a-4ec4-a57d-ab8c6cfc4423
+
+# Day 18 Expandable FAB
+
+The Expandable Floating Action Button (FAB) component is a customizable, circular button that expands to reveal multiple action buttons. When the main FAB is pressed, it expands smoothly to display a list of actions, each with its own icon, color, title, and description. This component is designed to provide quick access to multiple actions in a user-friendly and visually appealing manner.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/3f0a1002-3cbf-4287-a8b8-36d4c09c4fa0
