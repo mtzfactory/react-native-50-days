@@ -136,3 +136,63 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/2f2b8729-89
 The Accordion Component brings an organized and interactive way to display expandable content within your application. This component is designed to reveal or hide content sections dynamically, based on user interaction. Each accordion item smoothly transitions between its expanded and collapsed states, ensuring a seamless user experience. The animation is enhanced with customized spring physics to make the transitions feel natural and responsive, minimizing bounce during collapse and providing quick expansion. This component is ideal for FAQs, settings menus, and any content-heavy sections where users need to access detailed information without navigating away from the main page.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/bb224593-46aa-4c31-b366-a29a8713a004
+
+# Day 22 Collapsible Card
+
+The Animated Collapsible Card component provides a sleek and modern way to display expandable content within your application. This component features smooth animations for expanding and collapsing card content, enhancing the user experience by offering an interactive way to access detailed information. The card header includes an animated icon and dynamic content that transitions seamlessly. The component leverages React Native Reanimated for performant animations and Lucide icons for visually appealing graphics. Perfect for displaying notifications, updates, and expandable lists.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/38f50e2a-dc16-4cb4-bd2a-6fb1025814a3
+
+# Day 23 Wiggling Cards
+
+The Wiggling Cards component adds a fun and interactive animation to your card elements. As users scroll through the cards, they wiggle dynamically using React Native Reanimated's spring animations. This effect is enhanced with a blur overlay, creating a visually engaging experience perfect for showcasing products, images, or any card-based content. The component ensures smooth, responsive animations that captivate users and make flow enjoyable.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/6f61e6dc-66b1-4baf-8776-2edaf18e63cb
+
+# Day 24 Spinning Circle
+
+The Spinning Circle component introduces a visually engaging and interactive way to display and select technology icons in a circular layout. This component utilizes smooth, continuous rotation to showcase various icons, with each icon dynamically highlighted when selected. The selected icon moves to the center of the circle, displaying additional information like title and description, enhancing the user interaction experience. The transitions are seamlessly animated, providing an intuitive and visually appealing way to navigate through different options. This component is perfect for applications aiming to present selectable items in a compact and engaging format.
+
+https://github.com/user-attachments/assets/06cbc6ee-cd6f-418a-be66-a5e3b7d21d56
+
+# Day 25 Onboarding Steps
+
+This component features split buttons for navigating back and forth between steps and a dynamic progress view that highlights the current step with animated dots. The navigation buttons dynamically resize and reposition, creating an engaging and fluid experience as users progress through the steps. The progress view on top transitions smoothly with each step, offering visual feedback on the user's progress. Utilizing spring animations, this component ensures a natural and responsive interaction, making it ideal for guiding new users through key features or instructions in a visually appealing and interactive manner.
+
+https://github.com/user-attachments/assets/1ffe9442-22c2-46cc-800d-79bfe2b7965c
+
+# Day 26 Split Button
+
+The Split Button component is an innovative UI element that features two connected buttons that can smoothly split apart upon interaction. This component is designed to be visually appealing and interactive, providing a seamless experience for users. The left button contains a label, while the right button features an arrow icon. When pressed, the buttons animate to split apart, revealing additional functionality or navigation options. The component leverages React Native Reanimated for smooth animations and SVG for scalable graphics.
+
+https://github.com/user-attachments/assets/6cb71033-cefb-40c8-879e-988ea4f04ad5
+
+# Day 27 Bar Chart
+
+The Bar Chart component offers a visually engaging way to display data, perfect for summarizing and comparing information across multiple categories. This component uses a circular layout to represent data proportionally, with each segment corresponding to a specific category's value. Smooth animations enhance the user experience, including transitions for segment selection and data display. When a segment is selected, detailed information is dynamically displayed in the center of the chart. This component is ideal for health apps, activity trackers, and dashboards, providing an intuitive and interactive method for data visualization.
+
+https://github.com/user-attachments/assets/a817867c-ac27-4857-a3d7-a554bd4dae9b
+
+# Day 28 Circular Progress Bar
+
+The Circular Progress Bar component provides a dynamic and visually appealing way to represent progress in a circular format. This component features animated progress lines that grow and change color as the progress value updates, creating a smooth and engaging user experience. The progress percentage is displayed in the center of the circle, with an accompanying "Processing" text. A responsive "Start" button at the bottom of the screen triggers the progress animation, scaling when pressed to enhance interactivity. The component is built using React Native Reanimated for smooth animations and SVG for scalable graphics, making it perfect for fitness apps, loading indicators, and progress tracking interfaces.
+
+https://github.com/user-attachments/assets/0623d85f-20bb-4fcf-90d2-4932bd78c296
+
+# Day 29 FlashCards
+
+The FlashCards component provides an engaging and interactive way to display content, making it ideal for a variety of applications. Each card features a smooth flip animation, allowing for dynamic transitions between the front and back sides. This component supports full customization of both sides, enabling the integration of icons, styled text, and other elements to enhance the user experience. The flip animation includes a slight translation effect, adding a natural and fluid motion to the transition. Perfect for educational apps, product showcases, quizzes, and more.
+
+https://github.com/user-attachments/assets/c6b1e1f6-aaed-4588-8b28-6053e4bd9e97
+
+# Day 30 Heart Progress Circle
+
+The Heart Progress Circle component is a visually engaging and interactive way to display progress. This component features a circular progress bar that fills up in segments, with a delay after each segment to create a step-by-step animation effect. Additionally, a heart icon in the center scales up and down with a smooth animation, adding an extra layer of interactivity and visual appeal.
+
+https://github.com/user-attachments/assets/cf36190a-9d82-4c84-8f2f-73bb871a215b
+
+# Day 31 Radial FAB
+
+The Radial FAB (Floating Action Button) is an interactive component that expands a series of icons in a semi-circular arc around a central button. When the main FAB is pressed, the icons smoothly animate into view, providing quick access to various actions. This visually appealing component leverages React Native Reanimated for smooth animations and is perfect for applications that require efficient navigation and action-taking in a compact interface.
+
+https://github.com/user-attachments/assets/832f21b1-d705-46ec-a7ef-41b63f3b9246
