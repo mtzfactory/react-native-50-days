@@ -196,3 +196,37 @@ https://github.com/user-attachments/assets/cf36190a-9d82-4c84-8f2f-73bb871a215b
 The Radial FAB (Floating Action Button) is an interactive component that expands a series of icons in a semi-circular arc around a central button. When the main FAB is pressed, the icons smoothly animate into view, providing quick access to various actions. This visually appealing component leverages React Native Reanimated for smooth animations and is perfect for applications that require efficient navigation and action-taking in a compact interface.
 
 https://github.com/user-attachments/assets/832f21b1-d705-46ec-a7ef-41b63f3b9246
+
+# Day 32 Timer
+
+The Timer component is a customizable countdown timer with animated digits, providing a visually appealing way to track time.
+
+https://github.com/user-attachments/assets/a8c4801f-347a-4fa4-baef-51560422e143
+
+# Day 33 Pixelated Image Effect
+
+The Pixelated Image Effect component introduces a creative and dynamic way to transition images from a pixelated state to a clear view. Utilizing Skia and Reanimated, this component provides a visually engaging experience by smoothly adjusting the pixelation intensity based on user interaction or state changes. It's perfect for applications that require unique image transitions or effects.
+
+https://github.com/user-attachments/assets/ca99a585-be12-4601-ac66-0689b5ee1601
+
+# Day 34 Interactive Star Rating
+
+The Interactive Star Rating Animation is a dynamic and visually appealing rating component that smoothly transitions between circles and stars upon user interaction. When a circle is tapped, it scales up into a star, and all previous circles in the sequence transform as well. The animation includes a split effect, where the star’s top and bottom sections move slightly apart before settling into place, enhancing the visual impact.
+
+https://github.com/user-attachments/assets/4dd033da-a51b-414d-aef5-c95f62e1bd36
+
+# Day 35 Gooey Emoji Bar
+
+The Gooey Emoji Bar is an interactive component that enhances emoji reactions with smooth, fluid animations. Using React Native Skia and Reanimated, it creates a seamless blending effect where emoji bubbles stretch dynamically from the reaction bar.
+
+Long-pressing an emoji expands the bubble, while releasing it morphs back naturally. The implementation includes a base reaction bar, a stretchy gooey bubble, and a custom Skia path to connect the elements smoothly. Optimized ColorMatrix settings enhance the blending effect.
+
+Ideal for social media and messaging apps, this component adds a fun, interactive way to engage with content.
+
+https://github.com/user-attachments/assets/479b0ca9-02ef-4471-ad25-b8c7a91c5d38
+
+# Day 36 Noisy Clock
+
+The Noisy Clock is a dynamic and animated clock component that features a wavy, organic distortion effect around its border. Using React Native Skia and Reanimated, the clock's outer edge fluctuates in real time, creating a fluid and lively motion while keeping the central time indicators stable. The component includes smooth second-hand animation, precise hour and minute hand updates, and customizable distortion effects controlled by Simplex Noise.
+
+https://github.com/user-attachments/assets/6b0f7a5c-5c82-4f02-8fd4-deed6532333c
